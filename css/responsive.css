@@ -1,0 +1,64 @@
+/*-----------------HOME PAGE ----------*/
+@media screen and (max-width: 500px) {
+.logo {
+  width: 26%;
+}
+.add-img {
+  display: none;
+}
+.header-2-left {
+  border-top-right-radius: 0px!important;
+border-bottom-right-radius: 0px!important;
+font-size: 10px
+}
+.header-2-right {
+  display: none;
+}
+.bolg-left-img {
+  margin-left: -14px!important;
+}
+.wp-img img {
+  margin-left: 0px!important;
+}
+.wp-heading {
+  margin-top: 10px;
+}
+.bolg-left-img img {
+
+    margin-left: 0px!important;
+}
+.wp-left {
+  margin-top: 0px!important;
+}
+.socail-icon i {
+  font-size: 16px!important;
+}
+.so-icon a img {
+  width: 40%!important;
+}
+.menu-list {
+    text-align: -webkit-center;
+}
+.fotter-img img {
+  width: 80%!important;
+}
+.f-right-content {
+    float: left!important;
+}
+.f-right-content {
+    margin-left: 50px!important;
+}
+/*------------END HOME PAGE-----------*/
+/*------------POST PAGE---------------*/
+.main_post_img_overlay h4 a {
+  font-size: 18px;
+}
+.main-middel-post {
+  margin-top: 20px;
+}
+.left-card {
+  margin-top: 0px!important;
+  margin-bottom: 20px;
+}
+
+}
